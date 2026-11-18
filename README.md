@@ -48,4 +48,4 @@ I build software, ML/DL models and AI apps: native Mac apps in Swift, the websit
 
 Also on the web: **[Trama](https://crucigramas-sigma.vercel.app)**, daily crosswords in Spanish with no sign-up and no ads.
 
-<samp><a href="https://jnjambrino.com">jnjambrino.com</a> · <a href="https://x.com/jnjambrin0">x.com/jnjambrin0</a></samp>
+<samp><a href="https://jnjambrino.com">jnjambrino.com</a></samp>
